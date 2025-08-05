@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Full-Stack Developer skilled in building responsive, scalable web applications using technologies like HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. I enjoy crafting intuitive user experiences and writing clean, efficient backend code. Alongside development, I’ve solved 100+ DSA problems to strengthen my problem-solving and algorithmic thinking. I'm always eager to learn, explore new tech, and turn ideas into impactful digital solutions.
+I'm a passionate Frontend Developer skilled in building responsive, scalable web applications using technologies like HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. I enjoy crafting intuitive user experiences and writing clean, efficient backend code. Alongside development, I’ve solved 100+ DSA problems to strengthen my problem-solving and algorithmic thinking. I'm always eager to learn, explore new tech, and turn ideas into impactful digital solutions.
 
 
 ## 🌐 Socials:
